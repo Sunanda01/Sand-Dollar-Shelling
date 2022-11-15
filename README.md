@@ -27,7 +27,7 @@ The aforesaid platform is divided into the following modules:
 •	Buy seashell made products
 
 Software Used: 
--Front End 
+-Front End=
 HTML, CSS and JavaScript 
--Back End 
+-Back End= 
 PHP and MySQL 
