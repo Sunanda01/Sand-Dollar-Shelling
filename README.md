@@ -1,4 +1,6 @@
 Title: SAND-DOLLAR-SHELLING
+
+
 Objective: 
 To build a website cum platform based on the principles of using natural resources. The platform will pose a connection between customers who are willing to buy beautiful and unique seashell discovered from seas and oceans. It will provide the following services:
 1.	Shell Collector can sell the collected shells on the website.
